@@ -1,7 +1,9 @@
 # Phone on Macbook mount
 Mount your phone to your macbook.
 
-[iPhone Mount](https://github.com/danielwhyte/phone-on-macbook-mount/blob/master/iPhoneHolder%20MKII.png)
+![iPhone Mount](https://github.com/danielwhyte/phone-on-macbook-mount/blob/master/iPhoneHolder%20MKII.png)
+
+
 
 
 I use it to design usking sketch mirror just like this https://twitter.com/danielwhyte/status/674483481297031172
@@ -14,3 +16,11 @@ Impovements that need to be made:
 
 - Clip should follow the curve of a macbook better
 - Perhaps they should be printed as separate components
+
+
+
+
+#Creative Commons License Disclaimer
+UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+http://creativecommons.org/licenses/by-nc/4.0/
