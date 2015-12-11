@@ -5,5 +5,5 @@ I use it to design usking sketch mirror just like this https://twitter.com/danie
 
 Impovements that need to be made:
 
-– Clip should follow the curve of a macbook better
+- Clip should follow the curve of a macbook better
 - Perhaps they should be printed as separate components
